@@ -1,0 +1,608 @@
+21-11-2024 16:56:35 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:35 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:35 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:47 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:47 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:47 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:47 - ERROR - 8.6.2 - 39,4 Mo/128 Mo - mthierry > Le fichier n‘existe pas ? (error_loading_image) - C:\MAMP\htdocs\wordpress/wp-content/uploads/2024/08/Resultats-Guerlain-1ere-semaine-Juillet-2024.jpg
+21-11-2024 16:56:47 - ERROR - 8.6.2 - 39,4 Mo/128 Mo - mthierry > File: C:\MAMP\htdocs\wordpress/wp-content/uploads/2024/08/Resultats-Guerlain-1ere-semaine-Juillet-2024.jpg
+21-11-2024 16:56:47 - ERROR - 8.6.2 - 39,4 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:47 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:47 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:47 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:47 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:48 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:49 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:49 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:49 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:49 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:49 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:49 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:49 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:49 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:50 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:50 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:50 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:50 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:50 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:50 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:50 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:50 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:51 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:51 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:51 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:51 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:55 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:55 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:55 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:55 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:56 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:56 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:56 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:56 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:57 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:57 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:57 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:57 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:58 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:58 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:58 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:58 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:59 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:59 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:59 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:59 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:59 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:59 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:59 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:56:59 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:00 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:01 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:01 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:01 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:01 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:01 - ERROR - 8.6.2 - 39,4 Mo/128 Mo - mthierry > Le fichier n‘existe pas ? (error_loading_image) - C:\MAMP\htdocs\wordpress/wp-content/uploads/2023/12/formation.jpg
+21-11-2024 16:57:01 - ERROR - 8.6.2 - 39,4 Mo/128 Mo - mthierry > File: C:\MAMP\htdocs\wordpress/wp-content/uploads/2023/12/formation.jpg
+21-11-2024 16:57:02 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:02 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:02 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:02 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:02 - ERROR - 8.6.2 - 39,4 Mo/128 Mo - mthierry > Le fichier n‘existe pas ? (error_loading_image) - C:\MAMP\htdocs\wordpress/wp-content/uploads/2023/12/formation.jpg
+21-11-2024 16:57:02 - ERROR - 8.6.2 - 39,4 Mo/128 Mo - mthierry > File: C:\MAMP\htdocs\wordpress/wp-content/uploads/2023/12/formation.jpg
+21-11-2024 16:57:02 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:02 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:02 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:07 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:07 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 16:57:07 - ERROR - 8.6.2 - 39,1 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 17:15:37 - ERROR - 8.6.2 - 41,9 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 17:15:37 - ERROR - 8.6.2 - 41,9 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 17:15:37 - ERROR - 8.6.2 - 41,9 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 17:15:51 - ERROR - 8.6.2 - 41,9 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 17:15:51 - ERROR - 8.6.2 - 41,9 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 17:15:51 - ERROR - 8.6.2 - 41,9 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-11-2024 17:15:51 - ERROR - 8.6.2 - 42,3 Mo/128 Mo - mthierry > Le fichier n‘existe pas ? (error_loading_image) - C:\MAMP\htdocs\wordpress/wp-content/uploads/2024/08/Resultats-Guerlain-1ere-semaine-Juillet-2024.jpg
+21-11-2024 17:15:51 - ERROR - 8.6.2 - 42,3 Mo/128 Mo - mthierry > File: C:\MAMP\htdocs\wordpress/wp-content/uploads/2024/08/Resultats-Guerlain-1ere-semaine-Juillet-2024.jpg
+21-11-2024 17:15:51 - ERROR - 8.6.2 - 42,3 Mo/128 Mo - mthierry > Array
+(
+    [0] => 600
+    [1] => 0
+)
+

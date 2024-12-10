@@ -1,0 +1,38 @@
+09-12-2024 14:28:58 - INFO  - 8.6.4 - 72,9 Mo/256 Mo - mthierry > Start upgrade from 8.6.2
+09-12-2024 14:28:59 - INFO  - 8.6.4 - 73,4 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+09-12-2024 14:28:59 - INFO  - 8.6.4 - 73,4 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+09-12-2024 14:28:59 - INFO  - 8.6.4 - 73,4 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+09-12-2024 14:28:59 - INFO  - 8.6.4 - 73,4 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+09-12-2024 14:28:59 - INFO  - 8.6.4 - 73,4 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+09-12-2024 14:28:59 - INFO  - 8.6.4 - 73,4 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+09-12-2024 14:28:59 - INFO  - 8.6.4 - 73,4 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+09-12-2024 14:28:59 - INFO  - 8.6.4 - 73,4 Mo/256 Mo - mthierry > Backing up options of 8.6.2
+09-12-2024 14:28:59 - INFO  - 8.6.4 - 73,4 Mo/256 Mo - mthierry > End

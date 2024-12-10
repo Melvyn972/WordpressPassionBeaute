@@ -1,0 +1,38 @@
+21-11-2024 16:49:45 - INFO  - 8.6.2 - 39,4 Mo/256 Mo - mthierry > Start upgrade from 0.0.0
+21-11-2024 16:49:45 - INFO  - 8.6.2 - 39,9 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+21-11-2024 16:49:45 - INFO  - 8.6.2 - 39,8 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+21-11-2024 16:49:45 - INFO  - 8.6.2 - 39,9 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+21-11-2024 16:49:46 - INFO  - 8.6.2 - 39,9 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+21-11-2024 16:49:46 - INFO  - 8.6.2 - 39,9 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+21-11-2024 16:49:46 - INFO  - 8.6.2 - 39,9 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+21-11-2024 16:49:46 - INFO  - 8.6.2 - 39,9 Mo/256 Mo - mthierry > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+21-11-2024 16:49:46 - INFO  - 8.6.2 - 39,9 Mo/256 Mo - mthierry > Backing up options of 0.0.0
+21-11-2024 16:49:46 - INFO  - 8.6.2 - 39,9 Mo/256 Mo - mthierry > End
